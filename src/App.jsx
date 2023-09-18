@@ -154,14 +154,9 @@ function App() {
                                       <div class="h-[30px] lg:h-[0px] lg:w-[80px]"></div>
                                       <div class="md:w-[560px]">
                                         <div class="pb-6 text-[32px] md:text-[48px] whitespace-nowrap font-main text-transparent bg-clip-text w-[256px] md:w-[384px] bg-gradient-to-r from-indigo-300 to-purple-400">Work Experience</div>
-                                        <div>
-                                          <div class="font-main text-[24px]"> UNLV - Forest Inventory and Analysis National Program </div>
-                                          <p class="float-left font-secondary pb-3 text-[16px]"> Software Engineer - Intern </p><p class="float-right font-secondary pb-3 text-[15px] md:text-[16px]"> <span>•</span> 09/2021 - 05/2023 </p>
-                                          <hr class="border-black dark:border-white clear-both"></hr>
-                                            </div>
                                             <div>
                                               <div class="font-main text-[24px]"> UNLV - Forest Inventory and Analysis National Program </div><p class="float-left font-secondary pb-3 text-[16px]"> Software Engineer - Full Stack </p>
-                                              <p class="float-right font-secondary pb-3 text-[15px] md:text-[16px]"> <span>•</span> 05/23 - Present </p>
+                                              <p class="float-right font-secondary pb-3 text-[15px] md:text-[16px]"> <span>•</span> 09/21 - Present </p>
                                               <hr class="border-black dark:border-white clear-both"></hr>
                                                 </div>
                                                 </div>

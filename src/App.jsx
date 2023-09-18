@@ -44,7 +44,7 @@ function App() {
         </div>
         <div class="flex max-w-[1200px] flex-wrap">
           <div class="w-[340px] h-[370px] lg:h-[587px] lg:w-[560px] dark:bg-gray-700 bg-gray-400 rounded-xl mx-auto my-[40px]">
-            <a href="" target="_blank">
+            <a href="https://github.com/alexfox361/cs472-team6" target="_blank">
               <img class="mx-auto h-[242px] lg:h-[400px]" src="https://i.imgur.com/wxUoaBZ.png"></img>
             </a>
             <div class="h-[128px] lg:h-[187px] dark:bg-gray-900 bg-gray-100">
@@ -55,7 +55,7 @@ function App() {
             </div>
           </div>
           <div class="w-[340px] h-[370px] lg:h-[587px] lg:w-[560px] dark:bg-gray-700 bg-gray-400 rounded-xl mx-auto my-[40px]">
-            <a href="" target="_blank">
+            <a href="https://github.com/alexfox361/ladder-game" target="_blank">
               <img class="mx-auto h-[242px] lg:h-[400px]" src="https://i.imgur.com/m1B8SFu.png"></img>
             </a>
             <div class="h-[128px] lg:h-[187px] dark:bg-gray-900 bg-gray-100">
@@ -66,7 +66,7 @@ function App() {
             </div>
           </div>
           <div class="w-[340px] h-[370px] lg:h-[587px] lg:w-[560px] dark:bg-gray-700 bg-gray-400 rounded-xl mx-auto my-[40px]">
-            <a href="" target="_blank">
+            <a href="https://github.com/alexfox361/hotel-landing-page" target="_blank">
               <img class="mx-auto h-[242px] lg:h-[400px]" src="https://i.imgur.com/38InHFv.jpg"></img>
             </a>
             <div class="h-[128px] lg:h-[187px] dark:bg-gray-900 bg-gray-100">
